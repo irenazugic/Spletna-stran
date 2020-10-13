@@ -1,0 +1,38 @@
+body {
+  background-color: #3189c4;
+  font-family: 'Chilanka', cursive;
+  color: red;
+}
+
+#tabela2 {
+  background-color: white;
+  padding: 20px;
+  -webkit-box-shadow: 10px 11px 40px 1px rgba(20, 18, 20, 1);
+  -moz-box-shadow: 10px 11px 40px 1px rgba(20, 18, 20, 1);
+  box-shadow: 10px 11px 40px 1px rgba(20, 18, 20, 1);
+}
+
+.beli-text {
+  color: white;
+}
+
+a {
+  margin: 10px;
+  background-color: gray;
+  padding: 10px;
+  border-radius: border-radius: 12px 12px 7px 7px;
+  -moz-border-radius: 12px 12px 7px 7px;
+  -webkit-border-radius: 12px 12px 7px 7px;
+  border: 1px solid #595459;
+  -webkit-box-shadow: -9px -8px 26px -11px rgba(20, 18, 20, 1);
+  -moz-box-shadow: -9px -8px 26px -11px rgba(20, 18, 20, 1);
+  box-shadow: -9px -8px 26px -11px rgba(20, 18, 20, 1);
+}
+
+img {
+  border-radius: 20px;
+  -webkit-box-shadow: -1px 1px 71px -9px rgba(20, 18, 20, 1);
+  -moz-box-shadow: -1px 1px 71px -9px rgba(20, 18, 20, 1);
+  box-shadow: -1px 1px 71px -9px rgba(20, 18, 20, 1);
+  margin: 20px
+}
